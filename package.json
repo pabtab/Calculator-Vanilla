@@ -1,0 +1,19 @@
+{
+  "name": "calculator-vanilla",
+  "version": "1.0.0",
+  "description": "Calculator vanilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabtab/Calculator-Vanilla.git"
+  },
+  "author": "pabtab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabtab/Calculator-Vanilla/issues"
+  },
+  "homepage": "https://github.com/pabtab/Calculator-Vanilla#readme"
+}

@@ -1,0 +1,22 @@
+.calculator--container {
+  width: 200px;
+  border: 2px black solid;
+}
+
+.calculator--result {
+  height: 100px;
+  background-color: black;
+}
+
+.row {
+  margin: 0;
+}
+
+.col {
+  padding: 0;
+}
+
+.calculator--key {
+  width: 100%;
+  padding: 0;
+}
