@@ -6,6 +6,10 @@
 .calculator--result {
   height: 100px;
   background-color: black;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  color: white;
 }
 
 .row {
